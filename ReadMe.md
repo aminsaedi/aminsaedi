@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭Full stack developer and System administrator. <br>💬  Passionate about creating high-quality software that solves real-world problems.<br>⚡LPIC2 Certified Linux Engineer <br>🌱Always eager to collaborate and learn from others.<br>🤝Let's build something great together!<br><br>
+ 🔭Full stack developer and System administrator. <br>💬  Passionate about creating high-quality software that solves real-world problems.<br>⚡LPIC2 Certified Linux Engineer <br>🌱Always eager to collaborate and learn from others.<br><br>
 
 
 ## 🌐 Socials:

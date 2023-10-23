@@ -1,6 +1,7 @@
 # 💫 About Me:
  🔭 Software Engineer with 5+ years of experiance <br>⚡ LPIC2 Certified Linux Engineer <br>💬  Passionate about creating high-quality software that solves real-world problems.<br>🌱 Always eager to collaborate and learn from others.<br><br>
 
+[![An image of @aminsaedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aminsaedi)](https://holopin.io/@aminsaedi)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-saedi/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14103836) 
